@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
 const Eris = require("eris");
-var x5bzteam = new Eris("التوكن");//token
+var x5bzteam = new Eris("NDUyNjQ1MjU3ODIyMzM5MDg0.DuiK6A.MEZ3lvsYkgHJqtudFwjOzPTsba8");//token
 x5bzteam.on("ready", () => {
     console.log("Done | تـــــــم");
     onstart();
